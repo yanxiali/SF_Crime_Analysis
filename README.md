@@ -14,5 +14,5 @@ Please check out the project [here](https://github.com/yanxiali/SF_Crime_Analysi
 **Keywords**:
 time series analysis - ARIMA model - visualization 
 
-**Followup**:
-Housing price exploration.
+**Future Followup**:
+House price exploration.
