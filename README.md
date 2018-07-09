@@ -6,7 +6,7 @@ Please check out the jupyter notebook of the project [here](https://github.com/y
 **Keywords**:
 time series analysis - ARIMA model - visualization 
 
-**Description**
+**Description**:
 In this project, I would like to know the nicest neighborhoods in San Francisco that have the lowest crime rates, in case I decide to move there after I graduate from Hawaii. Therefore, I retrieved the 15-year data (between 2003 and 2018) of crime events, from the San Francesco Police Department (https://data.sfgov.org/Public-Safety/-Change-Notice-Police-Department-Incidents/tmnf-yvry).
 
 During EDA, I found some interesting results. For instance, among all types of crime (e.g., “Theft”, “Assault”, “Drug”), “Theft” is the most frequent one (22%). Also, midnight and noon are the periods with more crime per day and Friday is the most dangerous day per week. January and March both have the most number of the incidents, as opposed to the holiday seasons (in December and January). 
